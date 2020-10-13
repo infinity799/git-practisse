@@ -1,0 +1,3 @@
+The rebase command is used to merge the changes in specific order . 
+clean merging .
+good practise . 
